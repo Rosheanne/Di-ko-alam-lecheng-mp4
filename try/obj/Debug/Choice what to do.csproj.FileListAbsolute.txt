@@ -1,0 +1,7 @@
+C:\Users\roshe\source\repos\Choice what to do\bin\Debug\Choice what to do.exe.config
+C:\Users\roshe\source\repos\Choice what to do\bin\Debug\Choice what to do.exe
+C:\Users\roshe\source\repos\Choice what to do\bin\Debug\Choice what to do.pdb
+C:\Users\roshe\source\repos\Choice what to do\obj\Debug\Choice what to do.csproj.AssemblyReference.cache
+C:\Users\roshe\source\repos\Choice what to do\obj\Debug\Choice what to do.csproj.CoreCompileInputs.cache
+C:\Users\roshe\source\repos\Choice what to do\obj\Debug\Choice what to do.exe
+C:\Users\roshe\source\repos\Choice what to do\obj\Debug\Choice what to do.pdb
